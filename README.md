@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tomer Full time Software Engineer, and working on FOSS on my free time.
+
 <!--
 **tomer/tomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
